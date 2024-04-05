@@ -1769,9 +1769,11 @@ button,
       margin-bottom: 0; }
     .posts article .image {
       display: block;
+      aspect-ratio: 388/258;
       margin: 0 0 2em 0; }
       .posts article .image img {
         display: block;
+        aspect-ratio: 388/208;
         width: 100%; }
   @media screen and (min-width: 1681px) {
     .posts article:nth-child(3n + 1):before {
